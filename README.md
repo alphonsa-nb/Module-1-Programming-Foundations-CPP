@@ -23,6 +23,7 @@ C++ programming concepts.
 - Section 6: Expressions
 - Section 7: Conditional Statements
 - Section 8: Loops
+- Section 9: Mini Project – Student Marks Analyzer
 
 ## File Structure
 
@@ -34,3 +35,5 @@ C++ programming concepts.
 - `06_expressions.cpp` - Expression evaluation for Section 6
 - `07_control_structures.cpp` - Conditional & loop logic for Section 7
 - `08_looplab.cpp` - Loop logic for Section 8
+- `Section 9/mini_project.cpp` - Student Marks Analyzer Mini Project
+- `Section 9/car.cpp` - Car Class Program
